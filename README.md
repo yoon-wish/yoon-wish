@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=B4D4FF&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=yoon-wish's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=venom&text=WISHLOG&color=B5C0D0&fontColor=ffffff)
 
 <img src ="images/me_png.png" width="300">
 
