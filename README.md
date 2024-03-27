@@ -1,4 +1,6 @@
 
+<img src ="images/me_png.png" width="300">
+
 ### Info
 - 윤소원
 - 2000년 8월 1일 (23세)
