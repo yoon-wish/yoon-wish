@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=WISHLOG&color=B5C0D0&fontColor=576E90)
+![header](https://capsule-render.vercel.app/api?type=venom&text=WISH&color=B5C0D0&fontColor=576E90)
 
 <img src ="images/me_png.png" width="300">
 
