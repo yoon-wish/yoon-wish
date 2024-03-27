@@ -22,6 +22,7 @@
 ### 참여 프로젝트
 - 의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트
 - (교내) Programming Guru2: 안드로이드 모바일 앱 제작 프로젝트 [[PofoApp]](https://github.com/Lee-Yeonghyeon/PortfolioApp)
+- (졸업 프로젝트) 시퀀스-투-시퀀스 모델의 어텐션 메커니즘 유무에 따른 성능 차이
 
 <br>
 
